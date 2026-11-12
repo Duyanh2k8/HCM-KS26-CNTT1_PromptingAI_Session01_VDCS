@@ -44,3 +44,11 @@ Sau khi chạy Prompt, thu được bảng so sánh:
 Nguồn chính thức:
 - [Apple – Thông số iPhone 16 Pro Max.](https://support.apple.com/vi-vn/121032?utm_source=chatgpt.com)
 - [Samsung – Thông số Galaxy S24 Ultra.](https://www.samsung.com/vn/smartphones/galaxy-s24-ultra/specs/?utm_source=chatgpt.com)
+### Hai điểm mạnh của mỗi máy
+**iPhone 16 Pro Max:**
+1. Camera hỗ trợ quay video 4K Dolby Vision lên đến 120 fps.
+2. Camera chính và camera góc siêu rộng đều có độ phân giải 48MP.
+
+**Samsung Galaxy S24 Ultra:**
+1. Camera chính có độ phân giải 200MP.
+2. Có nhiều mức zoom quang học 3x và 5x.
